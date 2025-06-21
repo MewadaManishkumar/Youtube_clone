@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://img.youtube.com/vi/XlQS5yw8aOs/hqdefault.jpg';
-export const demoChannelUrl = '/c/AbhiandNiyu';
-export const demoVideoUrl = 'video=XlQS5yw8aOs';
-export const demoChannelTitle = 'Abhi and Niyu';
-export const demoVideoTitle = 'Nambi Narayanan - ISRO spy scandal explained | the man behind Rocketry - R Madhavan | Abhi and Niyu';
+export const demoThumbnailUrl = 'https://img.youtube.com/vi/EKY77xZSfcI/maxresdefault.jpg';
+export const demoChannelUrl = '/c/BhajanMarg';
+export const demoVideoUrl = 'video=EKY77xZSfcI';
+export const demoChannelTitle = 'Bhajan Marg';
+export const demoVideoTitle = 'Ekantik Vartalaap & Darshan/20-06-2025/ Shri Hit Premanand Govind Sharan Ji Maharaj';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
